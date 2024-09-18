@@ -1,1 +1,1 @@
-web:maun.py
+web: maun.py
